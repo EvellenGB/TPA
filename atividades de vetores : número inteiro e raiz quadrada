@@ -1,6 +1,6 @@
-package programaParImpar;
+package programaRaiz;
 import java.util.Scanner;
-public class programaParImpar {
+public class programaRaiz {
 	public static void main(String[]args) {
 		Scanner in=new Scanner(System.in);
 		final int TAM=10;
